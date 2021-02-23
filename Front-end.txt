@@ -1,0 +1,18 @@
+Version control:
+================
++ To track the change of a file or project
+	+ Distributed VCS
+		+ Git,Mercurial
+	+ Central VCS
+		+ Github,Apache subversion
+
++ git init
+
+
+
+
+
+
+
+
+
